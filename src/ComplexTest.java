@@ -37,7 +37,7 @@ public class ComplexTest {
  */
  @Test
  public void testGetImag() {
- System.out.println("getImags");
+ System.out.println("getImagsssss");
  Complex instance = new Complex();
  double expResult = 2.2;
  double result = instance.getImag();
