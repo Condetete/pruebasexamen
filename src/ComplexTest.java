@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Alumno Mañana
+ * @author Alumno MaÃ±ana
  */
 public class ComplexTest {
 
@@ -45,6 +45,7 @@ public class ComplexTest {
  // TODO review the generated test code and remove the default callto fail.
  //fail("The test case is a prototype.");
  }
+	// pero papu
 
 	/**
  * Test of setImag method, of class Complex.
